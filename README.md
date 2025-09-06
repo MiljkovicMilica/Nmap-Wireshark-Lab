@@ -13,13 +13,17 @@ We explore three common port states: **Open**, **Closed**, and **Filtered**.
   - Nmap  
   - Wireshark  
 
----
-
 ## 1️⃣ Open Port (Example: TCP 445)
 
 ### Nmap Command
-```bash
+
 nmap -p 445 192.168.20.10
 
 Nmap Output
+
+<img width="694" height="279" alt="445" src="https://github.com/user-attachments/assets/794bd944-a2eb-4d6b-8163-2cc03e8a2fe1" />
+
+
+---
+
 
