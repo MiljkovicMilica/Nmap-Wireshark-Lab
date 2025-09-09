@@ -19,9 +19,16 @@ We explore three common port states: **Open**, **Closed**, and **Filtered**.
 
 nmap -p 445 192.168.20.10
 
-Nmap Output
+**Nmap Output**
 
-<img width="694" height="279" alt="445" src="https://github.com/user-attachments/assets/794bd944-a2eb-4d6b-8163-2cc03e8a2fe1" />
+<img width="750" height="578" alt="445 port" src="https://github.com/user-attachments/assets/faad18d8-cd56-4c83-864d-18455c56a8ac" />
+
+
+
+**Wireshark Capture**
+
+<img width="982" height="824" alt="wireshark capture" src="https://github.com/user-attachments/assets/fab62b28-79ad-4fd3-bd38-9aa12ab4dfd1" />
+
 
 
 ---
